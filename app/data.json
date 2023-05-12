@@ -1,0 +1,1840 @@
+{
+  "config": {
+    "leftbarOpen": false,
+    "leftbarBeginOpen": true,
+    "leftbarSave": false,
+    "topbarAlwaysVisible": false,
+    "theme": "dark",
+    "topbarVisible": false,
+    "topbarItemsVisible": false,
+    "blockTitleHighlight": true,
+    "listHeadHighlight": false
+  },
+  "data": [
+    {
+      "name": "Capgemini",
+      "link": "#capgemini",
+      "colspan": "2",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "CertPonto",
+          "image": "https://trabalhador.certponto.com.br/Content/img/Logo.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "http://www.consulteseuponto.com.br/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Capgemini Next",
+          "image": "https://img.degreed.com/image/fetch/pg_1/h_36,c_fit,f_auto,q_auto,dpr_1.0/https%3A%2F%2Fprod.degreedcdn.com%2Fcontent%2Fimg%2Forg%2F421-a0faeb0f-45a8-4753-b473-9c2f19b82fd8.png%3Fv%3D1078984053136182",
+          "colspan": "1",
+          "color": "light-green",
+          "link": "https://degreed.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "MyLearning",
+          "image": "https://capgemini.sumtotal.host/Core/92.sumtfile",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://capgemini.sumtotal.host/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Talent",
+          "image": "https://talent.capgemini.com/image/responsive/loveyourcareer/talent-logo.png",
+          "colspan": "1",
+          "color": "gray",
+          "link": "https://talent.capgemini.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Capgemini Club",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "https://capgeminiclub.gointegro.com/gosocial/company/stream",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Family Care",
+          "image": "https://familycarecapgemini.healthbit.com.br/sites/familycarecapgemini.healthbit.com.br/files/Logofamilycare.jpg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://familycarecapgemini.healthbit.com.br/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Fale com o RH 2.0",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://sharepoint-capps.capgemini.com/sites/brazildashboard/QA/SitePages/HelpDesk/HomeCapIT.html",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "RH 2.0 (Antigo)",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://troom-x.capgemini.com/sites/brazildashboard/QA/SitePages/HelpDesk/HomeCapIt.html",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "eSkillsMatrix",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "orange",
+          "link": "https://eskillsmatrix.capgemini.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "R2D2",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "teal",
+          "link": "https://r2d2.capgemini.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "CV Portal",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "gray",
+          "link": "https://r2d2-tools.capgemini.com/Home/Index",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "GetSuccess",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://performancemanager5.successfactors.eu/sf/home?bplte_company=capgemitecP3",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "MyPath",
+          "image": "https://myconnect.capgemini.com/sap/bc/ui5_ui5/sap/zmypath/~CA0F1A35F6041EDAADBD18DACA7BD0CB~/com/capgemini/mypath/images/mypath_logo_small.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://myconnect.capgemini.com/sap/bc/ui5_ui5/sap/zmypath/index.html",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "MyHire Indicação",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://performancemanager5.successfactors.eu/acme?bplte_company=C0001123183P&fbacme_n=recruiting&recruiting%5fns=joblisting%20summary&itrModule=rcm&_s.crb=OrqPJeHk%2fAnX72Pcm%2b4qTs1yBuGN28%2b7j4aQwVHEsOw%3d",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "PingOne",
+          "image": "https://authenticator.pingone.eu/registration/images/icon-logo-ping@2x.png",
+          "colspan": "1",
+          "color": "gray",
+          "link": "https://myportal.capgemini.com",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "JobFeed",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "purple",
+          "link": "https://edifra-bpmaas-prod1.pegacloud.net/prweb/sso/Pxhl4ERF5awYUSa_gLOM61Nz52h1NO9_*/!STANDARD?App=JobFeed&pzPostData=-437466192&pzPostData=1207828153&pzPostData=-253471205&pzPostData=-355655930",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Architects Online",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://capgemini.sharepoint.com/sites/architectsonline",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Find an Architect",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://capgemini.sharepoint.com/sites/ArchCertGlobal/SitePages/pages/FindArchitect.aspx",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Next Architect Community",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://degreed.com/plan/1321597",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Corporate Directory",
+          "image": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "https://corporatedirectory.capgemini.com/MyDirectory/index.jsp",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "EF English",
+          "image": "https://et1.ef-cdn.com/_imgs/partnerlogo/schoollogo/v2/logo_ef_v2.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://learn.corporate.ef.com/home",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Service Central",
+          "image": "https://cgituat.service-now.com/9e6f6fe9db3d381057bb63cad3961990.iix",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "https://cgituat.service-now.com/sc?id=index",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Bradesco",
+      "link": "#bradesco",
+      "colspan": "2",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "Citrix Workspace",
+          "image": "https://fabricas.bradseg.com.br/vpn/media/citrixgateway_logo_white.png",
+          "colspan": "1",
+          "color": "turquoise",
+          "link": "https://fabricas.bradseg.com.br/logon/LogonPoint/index.html",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Bitbucket",
+          "image": "https://bitbucket.bradescoseguros.com.br:8443/s/-1417785663/5ab4b55/3/1.0/_/download/resources/com.atlassian.bitbucket.server.bitbucket-webpack-INTERNAL:bitbucket-logo/images/logo/bitbucket.svg",
+          "colspan": "1",
+          "color": "blue",
+          "link": "https://bitbucket.bradescoseguros.com.br:8443/dashboard",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "GitLab LEX3",
+          "image": "https://gitlab.com/assets/logo-911de323fa0def29aaf817fca33916653fc92f3ff31647ac41d2c39bbe243edb.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://d5800sd148.dsv.bradseg.com.br/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Octane",
+          "image": "https://octane.bradesco.com.br:8443/favicon.ico",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://octane.bradesco.com.br:8443/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Nexus",
+          "image": "https://www.sonatype.com/hubfs/Repo%20Combined%20Manager/Repo%20Icon%20with%20green.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "http://10.205.105.172:8081/#browse/browse:BSAD5-npm",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Nexus BSAD5-Security-Scan",
+          "image": "https://www.sonatype.com/hubfs/Repo%20Combined%20Manager/Repo%20Icon%20with%20green.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://nexus.bradescoseguros.com.br/#browse/browse:BSAD5-Security-Scan",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": "User: G570439\r\nPass: G570439"
+        },
+        {
+          "name": "Fortify esteira DevSecOps",
+          "image": "https://pbs.twimg.com/profile_images/1022908662392619008/5_z16TbH_400x400.jpg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://confluence.bradescoseguros.com.br/display/sgovdsv001/2.6.6.2+Fortify+esteira+DevSecOps",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Ambiente Desenvolvimento",
+          "image": "https://lexw.appsti.bradseg.com.br/lexw-fed-lex3-admin/assets/img/Bra_SEGUROS_RGB_RED.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://www.dsv.bradseg.com.br",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "LEXW 3.0 - DEV",
+          "image": "https://lexw.appsti.bradseg.com.br/lexw-fed-lex3-admin/assets/img/Bra_SEGUROS_RGB_RED.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://lexw.appsti.bradseg.com.br/lexw-fed-lex3-admin/login",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "LEXW 3.0 - HML",
+          "image": "https://lexw.appsti.bradseg.com.br/lexw-fed-lex3-admin/assets/img/Bra_SEGUROS_RGB_RED.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://lexw.appshml.bradseg.com.br/lexw-fed-lex3-admin/login",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "LEXW 3.0 - Layout",
+          "image": "https://xd.adobe.com/static/images/xd_favicon-b2ee7867cb9be9ee4055df64f32dcd58f3461fe3.ico",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://xd.adobe.com/view/8fff093e-d3f8-4b78-a53d-ba76a6930a42-daac/screen/96dcf87a-d0cf-46c8-a09a-5d1d5d8a43ce/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "LEXW 3.0 - UX Toolkit",
+          "image": "https://xd.adobe.com/static/images/xd_favicon-b2ee7867cb9be9ee4055df64f32dcd58f3461fe3.ico",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://xd.adobe.com/view/48c6297c-8e32-4596-b08e-5cf3167765c3-1d95/?fullscreen&hints=off",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "BS SonarQube LEX3",
+          "image": "https://assets-eu-01.kc-usercontent.com/e1f3885c-805a-0150-804f-0996e00cd37d/afadf76d-420e-414d-acff-4a9efb344baa/SonarQubeIcon.svg?w=160&h=46&auto=format&fit=crop",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://sonarqube.bradescoseguros.com.br/dashboard?id=lexw-srv-lex3-bare-key",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Cap SonarQube LEX3",
+          "image": "https://assets-eu-01.kc-usercontent.com/e1f3885c-805a-0150-804f-0996e00cd37d/afadf76d-420e-414d-acff-4a9efb344baa/SonarQubeIcon.svg?w=160&h=46&auto=format&fit=crop",
+          "colspan": "1",
+          "color": "white",
+          "link": "http://10.205.105.157:9000/projects?search=lex&sort=-analysis_date",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "GitFlow",
+          "image": "https://wac-cdn.atlassian.com/dam/jcr:cc0b526e-adb7-4d45-874e-9bcea9898b4a/04%20Hotfix%20branches.svg?cdnVersion=676",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://confluence.bradescoseguros.com.br/pages/viewpage.action?pageId=97230068#GER%C3%8ANCIADECONFIGURA%C3%87%C3%83OLIBERA%C3%87%C3%83ODEUSODABRANCHRELEASENAESTEIRADEVSECOPS-Bamboo%E2%80%93Planodebuild-BranchRelease",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Sandbox",
+          "image": "https://global.cdn.survey.medallia.com/03f6fecdc40fe51dc9236cb07c07a4f22d9bc446",
+          "colspan": "1",
+          "color": "white",
+          "link": "http://10.205.105.157:9088/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "WebSphere Local",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOaPpFugwgaj8iKZl9ZKs9bp94eDIQwKQD2HFx2DzCao_CdwWtRtKrO2yAMzBqHeaS_w&usqp=CAU",
+          "colspan": "1",
+          "color": "white",
+          "link": "http://localhost:9060/ibm/console/login.do",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Dynatrace DSV",
+          "image": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1460640914/hyk187shdkxuov8iycdt.png",
+          "colspan": "1",
+          "color": "turquoise",
+          "link": "https://10.192.60.175/e/facd5528-9eb9-4435-a909-434c2263b0da/#dashboard;gtf=today;gf=all;id=c4adedbc-13b2-4b94-9b8e-3ddbfe51cc62",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Dynatrace HML",
+          "image": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1460640914/hyk187shdkxuov8iycdt.png",
+          "colspan": "1",
+          "color": "turquoise",
+          "link": "https://10.192.88.131/e/ad544654-6b96-4f0c-b08a-2f6510b30384/ui/dashboards?gtf=-2h&gf=all",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Dynatrace PROD",
+          "image": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1460640914/hyk187shdkxuov8iycdt.png",
+          "colspan": "1",
+          "color": "turquoise",
+          "link": "https://10.208.224.251/e/050dfda1-e7ed-4b27-af7d-fff3b69bfc14/ui/dashboards?gtf=-2h&gf=all",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Porto Seguro",
+      "link": "#portoseguro",
+      "colspan": "2",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "GitLab Porto Seguro",
+          "image": "https://about.gitlab.com/images/icons/logos/slp-icon.svg",
+          "colspan": "1",
+          "color": "teal",
+          "link": "https://gitportoprd.portoseguro.brasil/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "JIRA Porto Seguro",
+          "image": "https://www.portoseguro.com.br/conteudo/consorcio/produto/auto-imovel/common/img/logos/porto-seguro.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://portoseguro.atlassian.net/jira/your-work",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "DEV Porto Seguro",
+          "image": "https://www.portoseguro.com.br/conteudo/consorcio/produto/auto-imovel/common/img/logos/porto-seguro.svg",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://dev.portoseguro.com.br/api-portal",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "InnovaRE ParaFlex",
+          "image": "https://www.portoseguro.com.br/conteudo/consorcio/produto/auto-imovel/common/img/logos/porto-seguro.svg",
+          "colspan": "1",
+          "color": "blue",
+          "link": "http://127.0.0.1:8080/porto.re.produto/index-teste.html#/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "InnovaRE ParaFlex",
+          "image": "https://prestador.portoseguro.com.br/staticFilesPorto/pdp/recursos/img/logo_2.png",
+          "colspan": "1",
+          "color": "brown",
+          "link": "http://apachetstre/porto.re.emissaocadastro/index-teste.html#/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Service Bus Console 12c",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg",
+          "colspan": "1",
+          "color": "black",
+          "link": "http://localhost:7101/servicebus/faces/login",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "VM Porto Seguro",
+          "image": "https://usbrprjnsportal.capgemini.com/vpn/media/Desktop.png",
+          "colspan": "1",
+          "color": "purple",
+          "link": "https://usbrprjnsportal.capgemini.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "VDI Porto - SMS",
+          "image": "https://usbrprjnsportal.capgemini.com/vpn/media/Desktop.png",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "https://homeoffice.portoseguro.com.br/logon/LogonPoint/index.html",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "VDI Porto - MFA",
+          "image": "https://usbrprjnsportal.capgemini.com/vpn/media/Desktop.png",
+          "colspan": "1",
+          "color": "blue",
+          "link": "https://ho.portoseguro.com.br/logon/LogonPoint/index_ho.html",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Arquitetura 5",
+          "image": "https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://sites.google.com/portoseguro.com.br/centraltire/conhecimento/arquitetura-5-micro-servi%C3%A7o",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Sensedia Porto",
+          "image": "https://uploads-ssl.webflow.com/5ecc07d89c19641b98843ecf/5ecc07d89c1964c9a4843ed2_Sensedia_horizontal_color.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://manager-portoseg.sensedia.com/api-manager/login.html#/login",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Útil",
+      "link": "#util",
+      "colspan": "2",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "Gmail",
+          "image": "img/gmail-icon.png",
+          "colspan": "1",
+          "color": "gray",
+          "link": "http://gmail.com",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Trello",
+          "image": "img/trello-logo.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://trello.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Notion",
+          "image": "img/notion-android.png_225",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://www.notion.so/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Dicionário Online",
+          "image": "img/dicio-logo.png",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "http://www.dicio.com.br",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Dúvidas de Português",
+          "image": "img/dicio-logo.png",
+          "colspan": "1",
+          "color": "blue",
+          "link": "https://duvidas.dicio.com.br/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Google Tradutor",
+          "image": "img/google-translate-logo.png",
+          "colspan": "1",
+          "color": "gray",
+          "link": "https://translate.google.com.br/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Google Drive",
+          "image": "img/google-driver-icon.png",
+          "colspan": "1",
+          "color": "green",
+          "link": "https://drive.google.com",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Google Podcast",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Podcasts_Logo.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://podcasts.google.com/u/1/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "YouTube Music",
+          "image": "https://music.youtube.com/img/on_platform_logo_dark.svg",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://music.youtube.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Can I Use (Eu posso usar)",
+          "image": "img/can-i-use.png",
+          "colspan": "1",
+          "color": "orange",
+          "link": "http://caniuse.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "HTTP Status Codes",
+          "image": "img/http-status-code.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://httpstatuses.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Caracteres HTML",
+          "image": "img/caracteres-html-logo.jpg",
+          "colspan": "1",
+          "color": "white",
+          "link": "http://erikasarti.com/html/acentuacao-caracteres-especiais/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Inspect Mobile",
+          "image": "img/chrome-icon.png",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "chrome://inspect/#devices",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "name": "Bibliotecas",
+      "link": "#bibliotecas",
+      "colspan": "2",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "React",
+          "image": "img/react.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://react.dev/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Material-UI // React.js",
+          "image": "img/material-ui.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://mui.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "React Router",
+          "image": "img/react-router.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://reactrouter.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "React Native",
+          "image": "img/react.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://reactnative.dev/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Expo",
+          "image": "https://static.expo.dev/static/brand/square-228x228.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://expo.io/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "AngularJS",
+          "image": "https://angularjs.org/img/AngularJS-large.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://angularjs.org/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Bootstrap AngularJS",
+          "image": "https://avatars.githubusercontent.com/u/1530011?s=200&v=4",
+          "colspan": "1",
+          "color": "purple",
+          "link": "https://angular-ui.github.io/bootstrap/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Angular",
+          "image": "https://angular.io/assets/images/logos/angular/angular.svg",
+          "colspan": "1",
+          "color": "blue",
+          "link": "https://angular.io/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Angular Material",
+          "image": "https://material.angular.io/assets/img/angular-material-logo.svg",
+          "colspan": "1",
+          "color": "blue",
+          "link": "https://material.angular.io/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Bootstrap",
+          "image": "img/bootstrap-logo.png",
+          "colspan": "1",
+          "color": "purple",
+          "link": "https://getbootstrap.com/docs/3.3/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Bootswatch",
+          "image": "img/bootswatch-logo.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://bootswatch.com/3/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "TODC Bootstrap",
+          "image": "img/todcbootstrap-logo.png",
+          "colspan": "1",
+          "color": "blue",
+          "link": "http://todc.github.io/todc-bootstrap/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Start Bootstrap",
+          "image": "img/startbootstrap.png",
+          "colspan": "1",
+          "color": "red",
+          "link": "http://startbootstrap.com",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "jQuery",
+          "image": "img/jquery-logo.png",
+          "colspan": "1",
+          "color": "blue",
+          "link": "http://api.jquery.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Bootstrap Table",
+          "image": "img/bootstraptable-logo.png",
+          "colspan": "1",
+          "color": "gray",
+          "link": "http://bootstrap-table.wenzhixin.net.cn/documentation/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Bootstrap Select",
+          "image": "img/bootstrap-logo.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://silviomoreto.github.io/bootstrap-select/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "jQuery Editable Select",
+          "image": "img/jquery-icon.png",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "http://indrimuska.github.io/jquery-editable-select/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": "Ver também: https://www.npmjs.com/package/jquery-editable-select"
+        },
+        {
+          "name": "jQuery contextMenu",
+          "image": "img/jquery-logo.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://swisnl.github.io/jQuery-contextMenu/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "jQuery Mask",
+          "image": "img/jquery-icon.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://igorescobar.github.io/jQuery-Mask-Plugin/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "jQuery UI",
+          "image": "img/jquery-ui-logo.png",
+          "colspan": "1",
+          "color": "dark-red",
+          "link": "http://jqueryui.com/demos/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Notify.js",
+          "image": "img/notifyjs-logo.png",
+          "colspan": "1",
+          "color": "green",
+          "link": "https://notifyjs.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "jQWidgets",
+          "image": "img/logo-jqwidgets.svg",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "http://www.jqwidgets.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "FullCalendar",
+          "image": "img/logo-fullcalendar.png",
+          "colspan": "1",
+          "color": "orange",
+          "link": "https://fullcalendar.io/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Flatpickr",
+          "image": "img/flatpickr-icon.png",
+          "colspan": "1",
+          "color": "blue",
+          "link": "https://chmln.github.io/flatpickr/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Materialize",
+          "image": "img/materializecss.png",
+          "colspan": "1",
+          "color": "purple",
+          "link": "http://materializecss.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Material Datetime Picker",
+          "image": "img/material-datetime-picker-logo.png",
+          "colspan": "1",
+          "color": "green",
+          "link": "https://ripjar.github.io/material-datetime-picker/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "CK Editor",
+          "image": "img/cke-logo.svg",
+          "colspan": "1",
+          "color": "orange",
+          "link": "https://ckeditor.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "SLY (Scroll)",
+          "image": "img/transparent.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "http://darsa.in/sly/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Mark.js",
+          "image": "img/mark-logo.svg",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://markjs.io/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Textarea Autosize",
+          "image": "img/javascript-icon.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "http://www.jacklmoore.com/autosize/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "DevExtreme",
+          "image": "img/devextreme-logo.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://js.devexpress.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Google reCaptcha",
+          "image": "img/google-recaptcha.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://developers.google.com/recaptcha/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Wijmo",
+          "image": "img/wijmo-logo.png",
+          "colspan": "1",
+          "color": "purple",
+          "link": "http://wijmo.com",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "qrcode.js",
+          "image": "img/qrcode-js.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://davidshimjs.github.io/qrcodejs/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Minify Maven Plugin",
+          "image": "img/minify-css-js-html-code-script.png",
+          "colspan": "1",
+          "color": "dark-red",
+          "link": "https://samaxes.github.io/minify-maven-plugin/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "compress.js",
+          "image": "img/minify-css-js-html-code-script.png",
+          "colspan": "1",
+          "color": "orange",
+          "link": "https://www.npmjs.com/package/compress.js",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas",
+      "link": "#ferramentas",
+      "colspan": "2",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "JSON Formatter e Validator",
+          "image": "img/logo-jsonformatter.png",
+          "colspan": "1",
+          "color": "brown",
+          "link": "https://jsonformatter.curiousconcept.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "JSON Editor Online",
+          "image": "img/logo-json.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://jsoneditoronline.org/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "JSONLint",
+          "image": "img/jsonlint-icon.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://jsonlint.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "JSONCompare",
+          "image": "img/jsoncompare-icon.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://jsoncompare.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "JSCompress",
+          "image": "img/jscompressor-icon.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://jscompress.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "ValidateJavaScript",
+          "image": "img/validatejavascript-icon.png",
+          "colspan": "1",
+          "color": "gray",
+          "link": "https://validatejavascript.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "RandomKeygen",
+          "image": "img/randomkeygen-icon.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://randomkeygen.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "DNS-Lookup",
+          "image": "img/dns-lookup-icon.png",
+          "colspan": "1",
+          "color": "gray",
+          "link": "https://dns-lookup.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Hex to RGB",
+          "image": "img/converter-icon.png",
+          "colspan": "1",
+          "color": "pink",
+          "link": "https://www.webpagefx.com/web-design/hex-to-rgb/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Random Color",
+          "image": "img/flat-ui-colors.png",
+          "colspan": "1",
+          "color": "green",
+          "link": "https://www.webpagefx.com/web-design/random-color-picker/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Bootsnipp",
+          "image": "img/bootsnipp.png",
+          "colspan": "1",
+          "color": "orange",
+          "link": "http://bootsnipp.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Javascript Obfuscator",
+          "image": "img/build-icon.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "http://www.javascriptobfuscator.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Mergely Editor",
+          "image": "img/mergely-logo.png",
+          "colspan": "1",
+          "color": "blue",
+          "link": "http://www.mergely.com/editor",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Material Tools Colors",
+          "image": "img/material-tools-colors.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://material.io/tools/color/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Flat UI Colors",
+          "image": "img/flat-ui-colors.png",
+          "colspan": "1",
+          "color": "purple",
+          "link": "https://flatuicolors.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "The Stocks",
+          "image": "img/the-stocks-logo.png",
+          "colspan": "1",
+          "color": "red",
+          "link": "http://thestocks.im/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Gerador Flexbox",
+          "image": "img/flexy-boxes.svg",
+          "colspan": "1",
+          "color": "brown",
+          "link": "http://the-echoplex.net/flexyboxes/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "CSS3 Generator",
+          "image": "img/css3-icon.png",
+          "colspan": "1",
+          "color": "red",
+          "link": "http://css3generator.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "KeyCode.info",
+          "image": "img/keycode-info.png",
+          "colspan": "1",
+          "color": "teal",
+          "link": "http://keycode.info/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Char Codes (Key Codes)",
+          "image": "img/keycode-info.png",
+          "colspan": "1",
+          "color": "orange",
+          "link": "https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Lorem Ipsum",
+          "image": "img/lorem-ipsum-logo.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "http://pt.lipsum.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "4Devs Ferramentas Online",
+          "image": "img/logo_4devs.png",
+          "colspan": "1",
+          "color": "turquoise",
+          "link": "https://www.4devs.com.br/gerador_de_cpf",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Gerador CPF",
+          "image": "img/geradordecpf-logo.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://www.geradordecpf.org/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Material Design Palette",
+          "image": "img/flat-ui-colors.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://www.materialpalette.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "RegExr",
+          "image": "img/regexr.png",
+          "colspan": "1",
+          "color": "yellow",
+          "link": "https://regexr.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "CloudConvert",
+          "image": "img/cloudconvert-logo.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://cloudconvert.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Gerador de Nome",
+          "image": "img/build-icon.png",
+          "colspan": "1",
+          "color": "orange",
+          "link": "http://www.wjr.eti.br/nameGenerator/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "QR Code Generator",
+          "image": "img/qrcode-generator.ico",
+          "colspan": "1",
+          "color": "brown",
+          "link": "https://br.qr-code-generator.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Java Decompiler",
+          "image": "img/java-decompiler.png",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "https://jdec.herokuapp.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Bootstrap.io",
+          "image": "img/bootstrap-logo.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://bootstrapstudio.io/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "MJML E-mail Responsive",
+          "image": "img/mjml.png",
+          "colspan": "1",
+          "color": "red",
+          "link": "https://mjml.io/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Creately Diagram",
+          "image": "https://app.creately.com/diagram/assets/images/logo-on-dark-200X80.svg",
+          "colspan": "1",
+          "color": "blue",
+          "link": "https://app.creately.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Draw.oi",
+          "image": "https://drawio-app.com/wp-content/uploads/2020/11/drawio_logo_RGB_dark_mini_199x50px.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://app.diagrams.net/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Figma",
+          "image": "https://static.figma.com/app/icon/1/icon-192.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://www.figma.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Resize Photo",
+          "image": "https://www.easy-resize.com/build/img/favicon2/favicon-194x194.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://www.easy-resize.com/pt/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Programação",
+      "link": "#programacao",
+      "colspan": "2",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "PostgreSQL",
+          "image": "img/postgresql-logo.png",
+          "colspan": "1",
+          "color": "blue",
+          "link": "http://www.postgresql.org",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "DEV Media",
+          "image": "img/devmidia-logo.png",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "http://www.devmedia.com.br/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "GUJ",
+          "image": "img/guj-logo.png",
+          "colspan": "1",
+          "color": "green",
+          "link": "http://www.guj.com.br",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Material Design",
+          "image": "img/logo-material-google.png",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "https://material.io/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Material Design Lite",
+          "image": "img/logo-material-lite-google.svg",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://getmdl.io/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "PrimeFaces",
+          "image": "img/primefaces-logo.png",
+          "colspan": "1",
+          "color": "light-green",
+          "link": "http://primefaces.org/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Uplabs",
+          "image": "img/uplabs-logo.svg",
+          "colspan": "1",
+          "color": "blue",
+          "link": "https://www.uplabs.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "W3Schools",
+          "image": "img/w3schools-logo.png",
+          "colspan": "1",
+          "color": "light-blue",
+          "link": "http://www.w3schools.com",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "W3layouts",
+          "image": "img/w3layouts-icon.png",
+          "colspan": "1",
+          "color": "purple",
+          "link": "https://w3layouts.com",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Brackets",
+          "image": "img/brackets-icon.png",
+          "colspan": "1",
+          "color": "blue",
+          "link": "http://brackets.io/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Hostinger",
+          "image": "img/hostinger-icon.png",
+          "colspan": "1",
+          "color": "yellow",
+          "link": "https://www.hostinger.com.br",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "LESS",
+          "image": "img/less-logo.png",
+          "colspan": "1",
+          "color": "teal",
+          "link": "http://lesscss.org/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "SASS",
+          "image": "img/saas-icon.svg",
+          "colspan": "1",
+          "color": "orange",
+          "link": "http://sass-lang.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Animate.css",
+          "image": "img/animate.css-logo.png",
+          "colspan": "1",
+          "color": "turquoise",
+          "link": "https://daneden.github.io/animate.css/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Ignite Layouts",
+          "image": "https://rocketseat.com.br/favicon.ico",
+          "colspan": "1",
+          "color": "purple",
+          "link": "https://www.notion.so/Ignite-Layouts-90cd53e4cc944b13b333d5e6b0ba8836",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Dribbble",
+          "image": "https://cdn.dribbble.com/assets/favicon-b38525134603b9513174ec887944bde1a869eb6cd414f4d640ee48ab2a15a26b.ico",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://dribbble.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Google Components",
+      "link": "#googlecomponents",
+      "colspan": "1",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "Google reCaptcha",
+          "image": "img/google-recaptcha.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://www.google.com/recaptcha/admin",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Google Tag Manager",
+          "image": "img/tag-manager.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://tagmanager.google.com/#/home",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Google Analytics",
+          "image": "img/analytics.svg",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://analytics.google.com/analytics/web/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Google APIs",
+          "image": "img/google-apis.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://console.developers.google.com/projectselector/apis/library",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Think With Google",
+          "image": "img/twg-lockup.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://www.thinkwithgoogle.com/intl/pt-br/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Facebook Components",
+      "link": "#facebookcomponents",
+      "colspan": "1",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "Facebook Developers",
+          "image": "img/facebook-logo.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://developers.facebook.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": "https://www.youtube.com/watch?v=lglppDC3ex4"
+        },
+        {
+          "name": "Facebook Permissões",
+          "image": "img/facebook-logo.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://developers.facebook.com/docs/facebook-login/permissions/?locale=pt_BR",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": "https://www.youtube.com/watch?v=lglppDC3ex4"
+        }
+      ]
+    },
+    {
+      "name": "Ícone",
+      "link": "#icone",
+      "colspan": "2",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "Font Awsome",
+          "image": "img/font-awsome-logo.png",
+          "colspan": "1",
+          "color": "green",
+          "link": "https://fontawesome.com/v4.7.0/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Google Icons",
+          "image": "img/material-design-icon-logo.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://fonts.google.com/icons",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Material Design Icons",
+          "image": "img/material-design-icons-logo.png",
+          "colspan": "1",
+          "color": "gray",
+          "link": "https://materialdesignicons.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "DevExtreme Icons",
+          "image": "img/devextreme-logo.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://js.devexpress.com/Documentation/Guide/Themes_and_Styles/Icons/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Icons8",
+          "image": "img/icons8-logo.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://icons8.com.br/icons",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "IconArchive",
+          "image": "img/iconarchive-logo.png",
+          "colspan": "1",
+          "color": "turquoise",
+          "link": "http://www.iconarchive.com",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Freepik",
+          "image": "img/freepik-logo.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "http://br.freepik.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Flaticon",
+          "image": "img/flaticon-logo.svg",
+          "colspan": "1",
+          "color": "blue",
+          "link": "https://www.flaticon.com/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "IcoMoon",
+          "image": "img/icomoon-icon.svg",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://icomoon.io/app/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Material Design Icons",
+          "image": "img/flat-ui-colors.png",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://www.materialpalette.com/icons",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Base64 Image",
+          "image": "img/base64-image-logo.png",
+          "colspan": "1",
+          "color": "white",
+          "link": "https://www.base64-image.de/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "iconmonstr",
+          "image": "https://cdns.iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico",
+          "colspan": "1",
+          "color": "black",
+          "link": "https://iconmonstr.com/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Artigos",
+      "link": "#artigos",
+      "colspan": "2",
+      "class": "",
+      "type": "list",
+      "children": [
+        {
+          "name": "CSS Flexbox",
+          "image": "img/artigo-icon.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "http://desenvolvimentoparaweb.com/css/flexbox/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "JS Promises",
+          "image": "img/artigo-icon.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://developers.google.com/web/fundamentals/getting-started/primers/promises",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Unidades de CSS (vh)",
+          "image": "img/artigo-icon.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "http://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "Modificar Tabelas Postgresql",
+          "image": "img/artigo-icon.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "http://pgdocptbr.sourceforge.net/pg80/ddl-alter.html",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "scrollIntoView",
+          "image": "img/artigo-icon.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://developer.mozilla.org/en-us/docs/web/api/element/scrollintoview",
+          "class": "item animated zoomSmall",
+          "type": "item"
+        },
+        {
+          "name": "HTML para E-mail",
+          "image": "img/artigo-icon.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://helpdesk.e-goi.com/588822-10-dicas-de-HTML-para-fazer-emails-%C3%A0-prova-de-erros",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        },
+        {
+          "name": "Angular Ng-Template",
+          "image": "img/artigo-icon.png",
+          "colspan": "1",
+          "color": "light-gray",
+          "link": "https://www.freecodecamp.org/portuguese/news/tudo-o-que-voce-precisa-saber-sobre-ng-template-ng-content-ng-container-e-ngtemplateoutlet-em-angular/",
+          "class": "item animated zoomSmall",
+          "type": "item",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
